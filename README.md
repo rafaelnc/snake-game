@@ -1,7 +1,7 @@
 # Snake Game 
 <h2>Bootcamp SPTech Desenvolvimento Fullstack da Digital Innovation One.</h2>
 
-Projeto pratico criando jogo da cobrinha da cobrinha com canvas e javascript
+Projeto pratico criando jogo da cobrinha com canvas e javascript
 
 
  ## :information_source: Tecnologias
