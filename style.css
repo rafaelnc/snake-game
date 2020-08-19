@@ -1,0 +1,49 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    width: 512px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+
+button {
+    width: 100px;
+    background-color: rgb(3, 56, 15);
+    color: white;
+    font-weight: bold;
+}
+
+#game-name {
+    height: 50px;
+    font-size: 30px;
+    color: chartreuse; 
+    font-family: 'Press Start 2P', cursive;
+}
+
+#button-score {  
+    height: 20px;  
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+#score {
+    margin-left: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+    color:white; 
+}
+
+#split {
+    height: 3px;
+    background-color: forestgreen;
+}
